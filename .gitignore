@@ -1,0 +1,4 @@
+Makefile.win
+*.o
+FirstProject.layout
+FirstProject.dev
